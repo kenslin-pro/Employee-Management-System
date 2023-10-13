@@ -18,8 +18,8 @@ I create employee development system using the C# programming language, which al
 
 # Future Work
 
+- Security Enhancements: Implement security features to protect sensitive employee data.
 
+- Database Integration: Integrate a database to store and manage employee records efficiently.
 
-- Enhance Game Content: Expanding the storyline and adding more narrative branches to create a richer gameplay experience.
-- Multiplayer Mode: Implement a multiplayer mode to allow players to experience the adventure together.
-  
+- User Authentication: Add user authentication to control access to the system and improve data security.

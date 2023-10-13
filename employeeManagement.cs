@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 class Employee
 {
@@ -14,6 +15,9 @@ class Program
 {
   static List<Employee> employees = new List<Employee>();
   static int nextEmployeeId = 1;
+
+
+  //display the system to the user
 
   static void Main()
   {
@@ -43,16 +47,24 @@ class Program
             Environment.Exit(0);
             break;
           default:
+
+
+            // when the user enters invalid choice
             Console.WriteLine("Invalid choice. Please try again.");
             break;
         }
       }
+
+      // when the user enters invalid choice
       else
       {
         Console.WriteLine("Invalid input. Please enter a number.");
       }
     }
   }
+
+
+  // allow the user to enter employee details
 
   static void AddEmployee()
   {
@@ -106,6 +118,9 @@ class Program
       Console.WriteLine("Invalid employee ID input.");
     }
   }
+
+
+  // display employees details to the user
 
   static void DisplayEmployees()
   {
