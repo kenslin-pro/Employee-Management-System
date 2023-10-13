@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\Employee Management System\bin\Debug\net7.0\Employee Management System.exe
+C:\Users\Owner\Desktop\Employee Management System\bin\Debug\net7.0\Employee Management System.deps.json
+C:\Users\Owner\Desktop\Employee Management System\bin\Debug\net7.0\Employee Management System.runtimeconfig.json
+C:\Users\Owner\Desktop\Employee Management System\bin\Debug\net7.0\Employee Management System.dll
+C:\Users\Owner\Desktop\Employee Management System\bin\Debug\net7.0\Employee Management System.pdb
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.dll
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\refint\Employee Management System.dll
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.pdb
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\Employee Management System.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Employee Management System\obj\Debug\net7.0\ref\Employee Management System.dll
