@@ -89,6 +89,8 @@ class Program
     }
   }
 
+  // allow the user to edit employee information
+
   static void EditEmployee()
   {
     Console.Write("Enter Employee ID to edit: ");
